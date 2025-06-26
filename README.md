@@ -1,4 +1,4 @@
-## Hi there, my name is João Igor! 👋
+## Hi there, my name is Igor! 👋
 
 I'm a Computer Engineering student from Natal, RN, Brazil 🇧🇷 — passionate about **Python**, **Data Science**, and **AI**. I love exploring how things work under the hood, from algorithms to system performance. When I'm not crushing bugs or building dreams, you'll probably find me lifting weights 🏋️, playing some Counter-Strike 🎮, or enjoying time with God ✝️ and my family ❤️.
 
