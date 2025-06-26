@@ -1,6 +1,6 @@
 ## Hi there, my name is Igor! 👋
 
-I'm a Computer Engineering student from Natal, RN, Brazil 🇧🇷. I like to know how things work under the hood, from algorithms to system performance. And I am very interested in everything about **Python**, **Data Science**, **AI**.
+I'm a Computer Engineering student from Natal, RN, Brazil 🇧🇷. I like to know how things work under the hood, from algorithms to system performance. And I am very interested in everything about **Python**, **Data Science** and **AI**.
 
 ## 📘 I've worked on: 
 - A scientific project implementing an [optimized Periodic Plus Smooth Decomposition algorithm](https://github.com/igorservo159/optimized-periodic-smooth-decomposition) for removing boundary artifacts on 2D FFTs.
